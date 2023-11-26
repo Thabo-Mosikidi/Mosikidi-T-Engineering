@@ -1,3 +1,3 @@
 //Printing out user input:
-let userInput = prompt(`Enter your input: `)
-console.log(userInput)
+let UserInput = prompt(`Enter your input: `)
+console.log(UserInput)
